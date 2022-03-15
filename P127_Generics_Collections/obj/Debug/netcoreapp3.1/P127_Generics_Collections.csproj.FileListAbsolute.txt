@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\P127_Generics_Collections\P127_Generics_Collections\bin\Debug\netcoreapp3.1\P127_Generics_Collections.exe
+C:\Users\Lenovo\source\repos\P127_Generics_Collections\P127_Generics_Collections\bin\Debug\netcoreapp3.1\P127_Generics_Collections.deps.json
+C:\Users\Lenovo\source\repos\P127_Generics_Collections\P127_Generics_Collections\bin\Debug\netcoreapp3.1\P127_Generics_Collections.runtimeconfig.json
+C:\Users\Lenovo\source\repos\P127_Generics_Collections\P127_Generics_Collections\bin\Debug\netcoreapp3.1\P127_Generics_Collections.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\P127_Generics_Collections\P127_Generics_Collections\bin\Debug\netcoreapp3.1\P127_Generics_Collections.dll
+C:\Users\Lenovo\source\repos\P127_Generics_Collections\P127_Generics_Collections\bin\Debug\netcoreapp3.1\P127_Generics_Collections.pdb
+C:\Users\Lenovo\source\repos\P127_Generics_Collections\P127_Generics_Collections\obj\Debug\netcoreapp3.1\P127_Generics_Collections.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\P127_Generics_Collections\P127_Generics_Collections\obj\Debug\netcoreapp3.1\P127_Generics_Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\P127_Generics_Collections\P127_Generics_Collections\obj\Debug\netcoreapp3.1\P127_Generics_Collections.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\P127_Generics_Collections\P127_Generics_Collections\obj\Debug\netcoreapp3.1\P127_Generics_Collections.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\P127_Generics_Collections\P127_Generics_Collections\obj\Debug\netcoreapp3.1\P127_Generics_Collections.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\P127_Generics_Collections\P127_Generics_Collections\obj\Debug\netcoreapp3.1\P127_Generics_Collections.dll
+C:\Users\Lenovo\source\repos\P127_Generics_Collections\P127_Generics_Collections\obj\Debug\netcoreapp3.1\P127_Generics_Collections.pdb
+C:\Users\Lenovo\source\repos\P127_Generics_Collections\P127_Generics_Collections\obj\Debug\netcoreapp3.1\P127_Generics_Collections.genruntimeconfig.cache
